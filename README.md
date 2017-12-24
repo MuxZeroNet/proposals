@@ -14,7 +14,7 @@ I informally define three different types of ZEPs.
 - **Process**  
     Describe changes in ZeroNet, which readers are typically not free to ignore them.
 
-## Expressing your idea regrading ZeroNet
+## Expressing your idea regarding ZeroNet
 
 It is highly recommended that a single proposal contains a single key idea. Proposals that are too broad or ambiguous are less likely to make their way into the official specification.
 

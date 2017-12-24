@@ -68,6 +68,15 @@ A complete and robust recipe.
 
 Data from experiments go here. Empirical evidence is used to support or negate the soundness and effectiveness of the idea or solution being proposed.
 
+## The review process
+
+- Draft
+- Deferred
+- Rejected
+- Accepted
+- Final
+- Replaced
+
 ## License of this document
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
